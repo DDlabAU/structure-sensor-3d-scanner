@@ -24,8 +24,8 @@ Sæt Structure Sensoren i computeren med USB. Hvis driveren og softwaren er inst
 ### Workflow
 Optag dit objekt. For at få den bedste model skal du gå 360 grader omkring det. Forsøg at hav den samme afstand og højde for sensoren igennem hele optagelsen. Så har sensoren lettere ved at scanne objektet og din model bliver bedre.
 
-Når du har optaget dit objekt har du mulighed for at kunne ændre i nogle af indstillingerne for modellen. Her kan du lappe eventuelle huller og andre ujævnheder.
+Når du har optaget dit objekt har du mulighed for at kunne ændre i nogle af indstillingerne for modellen. Her kan du lappe eventuelle huller og andre ujævnheder. I dette repository er der vedlagt en pdf med en quickstart guide til hvordan du bruger Skanect softwaren og hvad de forskellige indstillinger gør.
 
-Eksporter modellen som .OBJ. Nogle gange kan scanneren finde på at tage loftet, gulvet eller andre elementer fra baggrunden med i den endelige model. Afhængig af hvordan optagelsen gik, kan det være du skal fjerne nogle fejlelementer i tinkercad eller fusion efter du har eksporteret modellen. 
+Når du er færdig med at justere på indstillingerne i Skanect skal du eksportere modellen som .OBJ. Nogle gange kan scanneren finde på at tage loftet, gulvet eller andre elementer fra baggrunden med i den endelige model. Afhængig af hvordan optagelsen gik, kan det være du skal fjerne nogle fejlelementer i tinkercad eller fusion efter du har eksporteret modellen. 
 
 Hvis du er tilfreds med scanningen kan du også åbne modellen direkte i Cura til 3dprint.
