@@ -27,6 +27,11 @@ Sæt Structure Sensoren i computeren med USB. Hvis driveren og softwaren er inst
 
 ---
 
+### Licens af software
+Skanect findes i en gratis og en Pro version. I labbet har vi én Skanect Pro licens du kan bruge i labbet i dets åbningstid. Når du arbejder med den gratis version af Skanect er dine modeller begrænset til 5.000 overflader (faces). Det reducerer opløsningen af modellen betydeligt, især hvis du arbejder med mere detaljerede projekter. Til mere simple modeller kan du godt nøjes med den gratis version, men hvis du har behov for at skulle skanne nogle objekter i høj opløsning kan du tage fat i en DD Lab ansat. 
+
+---
+
 ### Workflow
 #### 1. Scanning af objekt
 Sørg for at hav god plads omkring dig når du skal optage dit objekt. For at få den bedste model skal du kunne gå 360 grader omkring det, imens du scanner. Forsøg at hav den samme afstand og højde for sensoren igennem hele scanningen. Så har sensoren lettere ved at scanne objektet og din model bliver bedre.
