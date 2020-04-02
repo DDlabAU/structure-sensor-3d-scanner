@@ -13,7 +13,7 @@ Før du kan bruge 3D Scanneren skal du lige hente noget software og en driver p�
 #### Installation af Skanect
 Hent skanect 3D Scanner software [HER.](https://skanect.occipital.com/download/#purchase)
 
-#### Installation af driver til windows & Mac
+#### Installation af driver til Windows & Mac
 Hent driver så sensor og 3D Scanner software kan snakke sammen [HER.](https://s3.amazonaws.com/io.structure.assets/SDK/StructureCore-DriverAndFirmware-0.9.7.zip)
 
 #### Installation af Structure Sensor
