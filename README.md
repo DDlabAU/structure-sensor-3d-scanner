@@ -28,13 +28,14 @@ Sæt Structure Sensoren i computeren med USB. Hvis driveren og softwaren er inst
 ---
 
 ### Licens af software
-Skanect findes i en gratis og en Pro version. I labbet har vi én Skanect Pro licens du kan bruge i labbet i dets åbningstid. Når du arbejder med den gratis version af Skanect er dine modeller begrænset til 5.000 overflader (faces). Det reducerer opløsningen af modellen betydeligt, især hvis du arbejder med mere detaljerede projekter. Til mere simple modeller kan du godt nøjes med den gratis version, men hvis du har behov for at skulle skanne nogle objekter i høj opløsning kan du tage fat i en DD Lab ansat. 
+Skanect findes i en gratis og en Pro version. I labbet har vi én Skanect Pro licens du kan bruge i labbet i dets åbningstid. Når du arbejder med den gratis version af Skanect er dine modeller begrænset til 5.000 overflader (faces). Det reducerer opløsningen af modellen betydeligt, især hvis du arbejder med mere detaljerede projekter. Til mere simple modeller kan du godt nøjes med den gratis version, men hvis du har behov for at skulle scanne nogle objekter i høj opløsning kan du tage fat i en DD Lab ansat. 
 
 ---
 
 ### Workflow
 #### 1. Scanning af objekt
 Sørg for at hav god plads omkring dig når du skal optage dit objekt. For at få den bedste model skal du kunne gå 360 grader omkring det, imens du scanner. Forsøg at hav den samme afstand og højde for sensoren igennem hele scanningen. Så har sensoren lettere ved at scanne objektet og din model bliver bedre.
+Det kan godt tage et par forsøg at opnå en model du er tilfreds med, så vær tålmodig. Du får de bedste scanninger ved at undgå pludselige bevægelser med scanneren. Hvis du scanner levende væsner er det også vigtigt at din model holder sig i ro under scanningen.
 
 #### 2. Juster model i Skanect
 Når du har optaget dit objekt har du mulighed for at kunne ændre i nogle af indstillingerne for modellen. Her kan du lappe eventuelle huller og andre ujævnheder. I dette repository er der vedlagt en [PDF](Skanect-Scanning-Guide.pdf) med en quickstart guide til hvordan du bruger Skanect softwaren og hvad de forskellige indstillinger gør.
