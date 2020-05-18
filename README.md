@@ -1,3 +1,5 @@
+![StructureCoreImage](StructureCore_2.png)
+
 # Structure Sensor 3D Scanner
 Structure Sensoren er en super fed 3D Scanner som du kan bruge til at scanne noget fysisk, og derefter generere en 3D model baseret på scanningen. Du kan både scanne rum, objekter og personer. 3D Scanneren er oprindeligt lavet til iPad, men udviklerne af Scanneren har gjort det let for brugere at bruge den via din computer istedet - Uanset om du bruger Windows eller Mac. Det er let at sætte op, og kræver kun følgende:
 
